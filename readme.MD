@@ -1,4 +1,3 @@
-```markdown
 # RazorPay UI Clone with Tailwind CSS and Vite
 
 This is a responsive **RazorPay landing page clone** built using **Tailwind CSS** and **Vite**. The project demonstrates how to replicate a modern, sleek design with utility-first CSS and an efficient build tool. This clone includes key sections like the navbar, hero, features, and footer, designed for educational purposes to showcase Tailwind’s flexibility.
