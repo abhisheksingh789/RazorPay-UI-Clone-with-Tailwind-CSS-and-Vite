@@ -21,8 +21,8 @@ This is a responsive **RazorPay landing page clone** built using **Tailwind CSS*
 - **Vite Build Tool**: Fast development server and optimized production build.
 
 ## Project Structure
-bash
-```
+
+```bash
 .
 ├── index.html           # Main HTML file
 ├── main.css             # Tailwind CSS imports and custom styles
