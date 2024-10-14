@@ -21,7 +21,8 @@ This is a responsive **RazorPay landing page clone** built using **Tailwind CSS*
 - **Vite Build Tool**: Fast development server and optimized production build.
 
 ## Project Structure
-
+bash
+```
 .
 ├── index.html           # Main HTML file
 ├── main.css             # Tailwind CSS imports and custom styles
@@ -31,7 +32,7 @@ This is a responsive **RazorPay landing page clone** built using **Tailwind CSS*
 ├── tailwind.config.js   # Tailwind CSS configuration
 ├── images/              # Images used in the project
 └── node_modules/        # Installed dependencies
-
+```
 
 ## Technologies Used
 - **Tailwind CSS**: A utility-first CSS framework.
@@ -86,6 +87,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 5. Open a Pull Request.
 
 ## License
+This project is for educational purposes and is not intended for commercial use. RazorPay is a registered trademark of RazorPay Inc., and this project does not represent an official affiliation with RazorPay.
 This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file.
 
 ---
