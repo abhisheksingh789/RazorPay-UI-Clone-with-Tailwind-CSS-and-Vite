@@ -21,7 +21,7 @@ This is a responsive **RazorPay landing page clone** built using **Tailwind CSS*
 - **Vite Build Tool**: Fast development server and optimized production build.
 
 ## Project Structure
-```bash
+
 .
 ├── index.html           # Main HTML file
 ├── main.css             # Tailwind CSS imports and custom styles
@@ -31,7 +31,7 @@ This is a responsive **RazorPay landing page clone** built using **Tailwind CSS*
 ├── tailwind.config.js   # Tailwind CSS configuration
 ├── images/              # Images used in the project
 └── node_modules/        # Installed dependencies
-```
+
 
 ## Technologies Used
 - **Tailwind CSS**: A utility-first CSS framework.
@@ -47,7 +47,7 @@ Ensure you have **Node.js** and **npm** installed on your machine.
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/abhisheksingh789/RazorPay-UI-Clone-with-Tailwind-CSS-and-Vite.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -93,7 +93,7 @@ This project is licensed under the **MIT License**. For more details, see the [L
 ### Credits
 - The UI design is inspired by the RazorPay official site.
 - Built while following an educational tutorial to demonstrate the power of Tailwind CSS and Vite.
-```
+
 
 ### Key Sections in the README:
 1. **Features**: Highlights what the project includes.
